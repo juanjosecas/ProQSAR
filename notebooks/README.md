@@ -264,7 +264,7 @@ config = Config(
 
 ## Additional Resources
 
-- **ProQSAR Documentation**: [https://proqsar.readthedocs.io](https://proqsar.readthedocs.io)
+- **ProQSAR Documentation**: [https://proqsar.readthedocs.io/en/latest/](https://proqsar.readthedocs.io/en/latest/)
 - **ProQSAR GitHub**: [https://github.com/Medicine-Artificial-Intelligence/ProQSAR](https://github.com/Medicine-Artificial-Intelligence/ProQSAR)
 - **QSAR Methodology**: See published literature on QSAR best practices
 
@@ -297,4 +297,4 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 For issues or questions:
 - Open an issue on GitHub: [ProQSAR Issues](https://github.com/Medicine-Artificial-Intelligence/ProQSAR/issues)
-- Refer to the documentation: [ProQSAR Docs](https://proqsar.readthedocs.io)
+- Refer to the documentation: [ProQSAR Docs](https://proqsar.readthedocs.io/en/latest/)
