@@ -9,4 +9,5 @@ Project/
 catboost_info/*
 Project/*
 *ipynb
+!notebooks/*.ipynb
 docs/*
